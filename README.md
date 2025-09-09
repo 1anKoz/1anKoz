@@ -1,13 +1,97 @@
-# 💫 About Me:
-I am currently working on a mobile application that highlights the importance of caring for your family relationships, upbringing children and getting the best from your marriage.<br><br>I am learning business, growing my social media and constantly developing my programming and problem-solving abilities.
+<h1 align="center">Hi 👋, I'm Jan </h1>
+<h3 align="center">.NET/Angular developer | <a href="https://famirise.com" target="blank">famirise</a> startup founder</h3>
 
+I am currently part of and the first employee hired at [](), where we engineer cutting-edge IT systems and applications for leading organizations across the UK, Poland, and beyond. Our expertise spans robust web solutions (CRM, ERP, CMS) built with .NET + Angular or Umbraco and high-performance mobile apps developed with Flutter + Firebase, empowering our clients to achieve their boldest ambitions.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/janixbiznesix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jankozinski) 
+After hours, I am fully dedicated to my startup, famirise - a mobile app that inspires and empowers people to nurture meaningful relationships with their partners, families, and children. My mission is to help others sustain love and connection in today’s fast-paced world.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
+<h2>💻 Tech Stack:</h2>
+
+<table align="center">
+    <tr>
+        <td align="center"><b>Frontend</b></td>
+        <td align="center"><b>Backend</b></td>
+        <td align="center"><b>Cloud & DevOps</b></td>
+        <td align="center"><b>CMS</b></td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
+            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+            <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
+        </td>
+        <td align="center" style="margin: 0 32px;">
+            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+            <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="images/images.png" alt="dotnet" width="40" height="40"/></a>
+            <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
+        </td>
+        <td align="center">
+            <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+            <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+            <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+        </td>
+        <td align="center" style="margin: 0 32px;">
+            <a href="https://umbraco.com/" target="_blank" rel="noreferrer"><img src="images/pngaaa.com-5094835.png" alt="umbraco" width="40" height="40"/></a>
+        </td>
+    </tr>
+</table>
+
+<br/>
+
+<table align="center">
+    <tr>
+        <td align="center"><b>Mobile</b></td>
+        <td align="center"><b>Machine Learning</b></td>
+        <td align="center"><b>Other</b></td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+            <a href="https://appwrite.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/></a>
+            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+        </td>
+        <td align="center" style="margin: 0 16px;">
+            <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+            <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+            <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+        </td>
+        <td align="center">
+            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+            <a href="https://www.autodesk.com/pl/products/inventor/overview" target="_blank" rel="noreferrer"><img src="images/autodesk-inventor-seeklogo.svg" alt="autodesk inventor" width="40" height="40"/></a>
+            <a href="https://github.com/1anKoz" target="_blank" rel="noreferrer"><img src="images/github-logo.png" alt="GitHub" width="40" height="40"/></a>
+        </td>
+    </tr>
+</table>
+
+## ☄️ Projects:
+
+### 📟 [C# in a nutshell - exercises](https://github.com/1anKoz/C-in-a-nutshell---exercises)
+A project I've come-up-with while reading the book by Ben Albahari. Its main goal is to apply the theory read in the book in practice.
+
+I could use a hand developing it - be sure to **fork** ᕦ⁠(⁠ಠ⁠_⁠ಠ⁠)⁠ᕤ 
+### 🥕 [FitYouFood](https://github.com/1anKoz/FitYouFood)
+Technical University of Lodz **group project** for tracking workout progress, suggesting exercises and generating diets... in theory. In practice it consists of a solid **backend** developed in **.NET8** with **SQL Server** database and **React.js PWA**. The AI model responsible for generating workouts and diets was never finished.
+
+The project implements a **GitHub Actions CI/CD** that includes static code analysis (**SonarCube**), running **tests** and **containerisation**.
+### 📖 [Book Manager](https://github.com/1anKoz/BookManagerASP)
+One of the first projects I was learning on. The app aimed to organise books, track reading progess and speed, save quotes and personal notes and leave reviews. Project was developed in **.NET6** with **SQL Server** database. It implements **Repository Pattern** and **Dependency Injection**
+### 👨‍👩‍👧‍👦 [famirise (not available to see yet)]()<!-- (famirise.com) -->
+
+<br/>
+
+<h3 align="left">📞 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jankozinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jankozinski" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26674306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26674306" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/currently unavailable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="currently unavailable" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/currently unavailable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="currently unavailable" height="30" width="40" /></a> -->
+</p>
+<br/>
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=1anKoz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=1anKoz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1anKoz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -17,8 +101,3 @@ I am currently working on a mobile application that highlights the importance of
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=1anKoz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
