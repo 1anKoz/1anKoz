@@ -99,14 +99,14 @@ One of the first projects I was learning on. The app aimed to organise books, tr
 ## 📊 GitHub Stats:
 <div align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=1anKoz&theme=dark&hide_border=false" />
-    <br/>
+    <!-- <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=1anKoz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anKoz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anKoz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> -->
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=1anKoz&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=1anKoz&theme=onedark)](https://github.com/1anKoz/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
