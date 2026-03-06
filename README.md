@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jan </h1>
-<h3 align="center">.NET/Angular developer | <a href="https://famirise.com" target="blank">famirise</a> startup founder</h3>
+<h3 align="center">.NET/Angular developer 
+    <!-- | <a href="https://famirise.com" target="blank">famirise</a> startup founder -->
+</h3>
 
-I am currently part of and the first employee hired at [Endevelo](https://endevelo.com/projects), where we engineer cutting-edge IT systems and applications for leading organizations across the UK, Poland, and beyond. Our expertise spans robust web solutions (CRM, ERP, CMS) built with .NET + Angular or Umbraco and high-performance mobile apps developed with Flutter + Firebase, empowering our clients to achieve their boldest ambitions.
+I am currently part of [Endevelo](https://endevelo.com/projects), where we engineer cutting-edge IT systems and applications for leading organizations across the UK, Poland, and beyond. Our expertise spans robust web solutions (CRM, ERP, CMS) built with .NET + Angular or Umbraco and high-performance mobile apps developed with Flutter + Firebase, empowering our clients to achieve their boldest ambitions.
 
 After hours, I am fully dedicated to my startup, famirise - a mobile app that inspires and empowers people to nurture meaningful relationships with their partners, families, and children. My mission is to help others sustain love and connection in today’s fast-paced world.
 
@@ -80,10 +82,10 @@ After hours, I am fully dedicated to my startup, famirise - a mobile app that in
 
 ## ☄️ Projects:
 
-### 📟 [C# in a nutshell - exercises](https://github.com/1anKoz/C-in-a-nutshell---exercises)
+<!-- ### 📟 [C# in a nutshell - exercises](https://github.com/1anKoz/C-in-a-nutshell---exercises)
 A project I've come-up-with while reading the book by Ben Albahari. Its main goal is to apply the theory read in the book in practice.
 
-I could use a hand developing it - be sure to **fork** ᕦ⁠(⁠ಠ⁠_⁠ಠ⁠)⁠ᕤ 
+I could use a hand developing it - be sure to **fork** ᕦ⁠(⁠ಠ⁠_⁠ಠ⁠)⁠ᕤ -->
 ### 🥕 [FitYouFood](https://github.com/1anKoz/FitYouFood)
 Technical University of Lodz **group project** for tracking workout progress, suggesting exercises and generating diets... in theory. In practice it consists of a solid **backend** developed in **.NET8** with **SQL Server** database and **React.js PWA**. The AI model responsible for generating workouts and diets was never finished.
 
