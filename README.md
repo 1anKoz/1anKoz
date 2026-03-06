@@ -106,7 +106,7 @@ One of the first projects I was learning on. The app aimed to organise books, tr
 </div>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=1anKoz&theme=onedark)](https://github.com/1anKoz/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=1anKoz)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
