@@ -92,7 +92,8 @@ Technical University of Lodz **group project** for tracking workout progress, su
 The project implements a **GitHub Actions CI/CD** that includes static code analysis (**SonarCube**), running **tests** and **containerisation**.
 ### 📖 [Book Manager](https://github.com/1anKoz/BookManagerASP)
 One of the first projects I was learning on. The app aimed to organise books, track reading progess and speed, save quotes and personal notes and leave reviews. Project was developed in **.NET6** with **SQL Server** database. It implements **Repository Pattern** and **Dependency Injection**
-### 👨‍👩‍👧‍👦 [famirise (not available to see yet)]()<!-- (famirise.com) -->
+### 👨‍👩‍👧‍👦 [famirise](https://youtube.com/shorts/-5o1RbpjKhY?feature=share)<!-- (famirise.com) -->
+A mobile app that inspires and empowers people to nurture meaningful relationships with their partners, families, and children.
 
 <br/>
 
